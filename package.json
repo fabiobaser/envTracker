@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "./autoGit.sh"
+    "start": "./autoGit.sh"
   },
   "repository": {
     "type": "git",
