@@ -1,0 +1,20 @@
+{
+  "name": "autoGit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "./autoGit.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiobaser/envTracker.git"
+  },
+  "keywords": [],
+  "author": "Fabio Baser <f.baser@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiobaser/envTracker/issues"
+  },
+  "homepage": "https://github.com/fabiobaser/envTracker#readme"
+}
