@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-uuidgen >> ./data
+date >> ./data
 cat ./data
 git add ./data
 git commit -m "Auto Commit"
